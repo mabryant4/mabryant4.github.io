@@ -1,11 +1,11 @@
 <html>
   <body> 
-    <button onclick="document.location='index.md'">About</button>
-    <button onclick="document.location='resume.md'">Resume</button>
-    <button onclick="document.location='experience.md'">Experience</button>
-    <button onclick="document.location='projects.md'">Projects</button>
-    <button onclick="document.location='writing.md'">Writing</button>
-    <button onclick="document.location='extra.md'">Extracurricular</button>
+    <button onclick="index.md">About</button>
+    <button onclick="resume.md">Resume</button>
+    <button onclick="experience.md">Experience</button>
+    <button onclick="projects.md">Projects</button>
+    <button onclick="writing.md">Writing</button>
+    <button onclick="extra.md">Extracurricular</button>
     <h1 style="text-align:center">Marlee Bryant</h1>
     <h3 style="text-align:center">Computer Science Graduate Student<br>
       University of Alabama<br></h3>
