@@ -11,7 +11,7 @@
       <h2>Contact Information</h2>
       <b>Email</b> mabryant4@crimson.ua.edu <br>
       <b>Phone</b> (334)462-6430 <br>
-      <b>LinkedIn</b><a href="https://www.linkedin.com/in/marlee-bryant">Marlee Bryant's LinkedIn Profile</a>
+      <b>LinkedIn</b><a href="https://www.linkedin.com/in/marlee-bryant"> Marlee Bryant's LinkedIn Profile</a>
     </div>
   </body>
 <html>
