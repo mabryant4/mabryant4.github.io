@@ -1,6 +1,13 @@
-<div align="center">Marlee Bryant
-Computer Science Graduate Student
-University of Alabama</div>
+<html>
+  <body>
+    <div align="center"> <h1>Marlee Bryant<br>
+    Computer Science Graduate Student<br>
+      University of Alabama<br></h1></div>
+    <img src="https://mabryant4.github.io/profile.jpg.JPG">
+  </body>
+<html>
+  
+
 
 ![Profile Picture](https://mabryant4.github.io/profile.jpg.JPG)
 
