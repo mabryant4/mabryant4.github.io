@@ -1,12 +1,12 @@
 <html>
   <body>
     <div class="btn-group" align="center">
-      <a href="about.html"><button style="font-size:24px">About</button></a>
-      <a href="resume.html"><button style="font-size:24px">Resume</button></a>
-      <a href="experience.html"><button style="font-size:24px">Experience</button></a>
-      <a href="projects.html"><button style="font-size:24px">Projects</button></a>
-      <a href="writing.html"><button style="font-size:24px">Writing</button></a>
-      <a href="extra.html"><button style="font-size:24px">Extracurricular</button></a>
+      <a href="about.html"><button style="font-size:20px">About</button></a>
+      <a href="resume.html"><button style="font-size:20px">Resume</button></a>
+      <a href="experience.html"><button style="font-size:20px">Experience</button></a>
+      <a href="projects.html"><button style="font-size:20px">Projects</button></a>
+      <a href="writing.html"><button style="font-size:20px">Writing</button></a>
+      <a href="extra.html"><button style="font-size:20px">Extracurricular</button></a>
     </div>
     <h1 style="text-align:center">Marlee Bryant</h1>
     <h3 style="text-align:center">Computer Science Graduate Student<br>
