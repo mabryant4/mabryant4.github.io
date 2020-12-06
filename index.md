@@ -1,13 +1,17 @@
 <html>
+  <head> <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  </head>
   <body>
     <div class="btn-group" align="center">
-      <button style="font-size:20px" onclick="document.location='about.html'">About</button>
-      <button style="font-size:20px" onclick="document.location='resume.html'">Resume</button>
-      <button style="font-size:20px" onclick="document.location='experience.html'">Experience</button>
-      <button style="font-size:20px" onclick="document.location='projects.html'">Projects</button>
-      <button style="font-size:20px" onclick="document.location='writing.html'">Writing</button>
-      <button style="font-size:20px" onclick="document.location='extra.html'">Extracurricular</button>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='about.html'">About</button>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='resume.html'">Resume</button>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='experience.html'">Experience</button>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='projects.html'">Projects</button>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='writing.html'">Writing</button>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='extra.html'">Extracurricular</button>
     </div>
+    <br>
+    <br>
     <h1 style="text-align:center">Marlee Bryant</h1>
     <h3 style="text-align:center">Computer Science Graduate Student<br>
       University of Alabama<br></h3>
