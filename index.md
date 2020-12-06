@@ -11,7 +11,7 @@
     <h1 style="text-align:center">Marlee Bryant</h1>
     <h3 style="text-align:center">Computer Science Graduate Student<br>
       University of Alabama<br></h3>
-    <img src="https://mabryant4.github.io/profile.jpg.JPG" style="text-align:center">
+    <img src="https://mabryant4.github.io/profile.jpg.JPG" style="horizontal-align:center">
     <hr>
     <h2 style="text-align:center">About Me</h2>
     <hr>
