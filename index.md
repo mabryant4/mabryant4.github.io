@@ -1,7 +1,7 @@
 <html>
   <body>
     <a href="index.md"><button">About</button></a>
-    <button onclick="resume.md">Resume</button>
+    <button onclick="resume.html">Resume</button>
     <button onclick="experience.md">Experience</button>
     <button onclick="projects.md">Projects</button>
     <button onclick="writing.md">Writing</button>
