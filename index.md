@@ -1,6 +1,6 @@
 <html>
-  <body> 
-    <button onclick="index.md">About</button>
+  <body>
+    <a href="index.md"><button">About</button></a>
     <button onclick="resume.md">Resume</button>
     <button onclick="experience.md">Experience</button>
     <button onclick="projects.md">Projects</button>
