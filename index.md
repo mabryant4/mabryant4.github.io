@@ -1,6 +1,6 @@
 <html>
   <body>
-    <a href="index.html"><button>About</button></a>
+    <a href="about.html"><button>About</button></a>
     <a href="resume.html"><button>Resume</button></a>
     <a href="experience.html"><button>Experience</button></a>
     <a href="projects.html"><button>Projects</button></a>
