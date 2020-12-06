@@ -1,5 +1,10 @@
 <html>
   <body>
+   <style>
+    .button {
+      font-size: 30px;
+    }
+   </style>
     <div class="btn-group" align="center">
       <a href="about.html"><button>About</button></a>
       <a href="resume.html"><button>Resume</button></a>
