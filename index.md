@@ -4,7 +4,7 @@
     <a href="resume.html"><button>Resume</button></a>
     <a href="experience.html"><button>Experience</button></a>
     <a href="projects.html"><button>Projects</button></a>
-    <a href="writing.html"><button>>Writing</button></a>
+    <a href="writing.html"><button>Writing</button></a>
     <a href="extra.html"><button>Extracurricular</button></a>
     <h1 style="text-align:center">Marlee Bryant</h1>
     <h3 style="text-align:center">Computer Science Graduate Student<br>
