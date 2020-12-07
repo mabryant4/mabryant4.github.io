@@ -3,15 +3,34 @@ layout: default
 ---
 
 <html>
+  <head> <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  </head>
   <body>
     <div class="btn-group" align="center">
-      <a href="about.html"><button>About</button></a>
-      <a href="resume.html"><button>Resume</button></a>
-      <a href="experience.html"><button>Experience</button></a>
-      <a href="projects.html"><button>Projects</button></a>
-      <a href="writing.html"><button>Writing</button></a>
-      <a href="extra.html"><button>Extracurricular</button></a>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='about.html'">About</button>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='resume.html'">Resume</button>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='experience.html'">Experience</button>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='projects.html'">Projects</button>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='writing.html'">Writing</button>
+      <button class="btn btn-light" style="font-size:19px" onclick="document.location='extra.html'">Extracurricular</button>
     </div>
-    <h1 style="text-align:center">Experience</h1>
+    <br>
+    <br>
+    <h1 style="text-align:center">Projects</h1>
+    <br>
+    <br>
+    <div class="btn-group" align="center">
+      <button class="btn btn-secondary" style="font-size:20px"><a href="#1" style="color: #ffffff; text-decoration: none;">The University of Alabama</a></button>
+      <button class="btn btn-secondary" style="font-size:20px"><a href="#2" style="color: #ffffff; text-decoration: none;">International Paper</a></button>
+    </div>
+    <hr>
+    <div align="center" id="1">
+    <h2 style="text-align:center">The University of Alabama</h2>
+    </div>
+    <hr>
+    <div align="center" id="2">
+    <h2 style="text-align:center">International Paper</h2>
+    </div>
+    <hr>
   </body>
 </html>
