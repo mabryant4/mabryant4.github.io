@@ -16,7 +16,7 @@
     <h3 style="text-align:center">Computer Science Graduate Student<br>
       University of Alabama<br>
       Graduating May 2022<br></h3>
-    <img src="https://mabryant4.github.io/profile.jpg" style="width:100%;horizontal-align:center">
+    <img src="https://mabryant4.github.io/profile.JPG" style="width:100%;horizontal-align:center">
     <hr>
     <h2 style="text-align:center">About Me</h2>
     <p style="font-size:18px">For me, the intrigue of software development is the challenge of creative problem solving and constant innovation. I am searching for
